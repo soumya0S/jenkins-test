@@ -1,2 +1,2 @@
-# jenkins-test
-repo for jenkins dummy job
+# jenkins-test-dummy
+A dummy repo for testing jenkins builds against.
